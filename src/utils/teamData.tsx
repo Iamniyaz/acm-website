@@ -4,18 +4,18 @@ import type { TeamCardProps } from '@components/TeamCard';
 
 export const seniorData: TeamCardProps[] = [
 	{
-		username: 'Syed',
+		username: 'Syed Anas',
 		avatar: '/SrExecom23-24/maheen2.jpg',
 		socialMedia: [
 			{
 				icon: <FaLinkedin size={20} />,
 				link: 'https://www.linkedin.com/in/syeda-maheen/',
-				tooltip: 'Syeda Maheen',
+				tooltip: 'Syed Anas',
 			},
 			{
 				icon: <FaInstagramSquare size={20} />,
 				link: 'https://www.instagram.com/maaheeenx/',
-				tooltip: 'Syeda Maheen',
+				tooltip: 'Syed Anas',
 			},
 		],
 		badges: [
@@ -27,18 +27,18 @@ export const seniorData: TeamCardProps[] = [
 		],
 	},
 	{
-		username: 'Maleha Ansari',
-		avatar: '/SrExecom23-24/maleha.png',
+		username: 'Poorvi Reddy',
+		avatar: '/SrExecom24-25/poorvi.jpg',
 		socialMedia: [
 			{
 				icon: <FaLinkedin size={20} />,
-				link: 'https://www.linkedin.com/in/maleha-ansari-035bc/',
-				tooltip: 'Maleha Ansari',
+				link: 'https://www.instagram.com/',
+				tooltip: 'Poorvi Reddy',
 			},
 			{
 				icon: <FaInstagramSquare size={20} />,
-				link: 'https://www.instagram.com/maleha_07/',
-				tooltip: 'Maleha Ansari',
+				link: 'https://www.instagram.com/_poorvireddy_/',
+				tooltip: 'Poorvi Reddy',
 			},
 		],
 		badges: [
