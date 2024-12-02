@@ -4,7 +4,7 @@ import type { TeamCardProps } from '@components/TeamCard';
 
 export const seniorData: TeamCardProps[] = [
 	{
-		username: 'Syeda Maheen',
+		username: 'Syed',
 		avatar: '/SrExecom23-24/maheen2.jpg',
 		socialMedia: [
 			{
