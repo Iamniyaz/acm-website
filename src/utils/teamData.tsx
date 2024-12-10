@@ -28,7 +28,7 @@ export const seniorData: TeamCardProps[] = [
 	},
 	{
 		username: 'Poorvi Reddy',
-		avatar: '/SrExecom24-25/vc.jpg',
+		avatar: './SrExecom24-25/vc.jpg',
 		socialMedia: [
 			{
 				icon: <FaLinkedin size={20} />,
