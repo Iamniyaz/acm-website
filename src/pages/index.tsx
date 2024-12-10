@@ -10,7 +10,7 @@ export default function Home() {
 					loop
 					muted
 					poster="https://iamniyaz.github.io/acm-website/thumb.jpg"
-					src="/homeVideo.webm"
+					src="https://iamniyaz.github.io/acm-website/homeVideo.webm"
 				/>
 			</div>
 			<About />
