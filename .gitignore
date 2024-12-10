@@ -54,4 +54,3 @@ yarn-error.log*
 cache.db
 
 # unocss
-src/styles/unocss.css
