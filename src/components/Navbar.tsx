@@ -15,7 +15,7 @@ export default function Navbar() {
 		},
 		{
 			name: 'About',
-			path: '/#about',
+			path: 'https://iamniyaz.github.io/acm-website/#about',
 		},
 		{
 			name: 'Team',
